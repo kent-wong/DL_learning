@@ -1,0 +1,441 @@
+grid = {'iteration' : [5000, 6000, 7000, 8000, 9000, 10000], 'lr' : [0.2, 0.3, 0.4, 0.5], 'hidden_node' : [4, 5, 6, 7, 8, 9, 10, 11, 12]}
+for i in grid['iteration']:
+     for l in grid['lr']:
+            for h in grid['hidden_node']:
+                hyper_run(i, l, h, 1)
+
+Progress: 100.0% ... Training loss: 0.142 ... Validation loss: 0.274
+** iteration: 5000, lr: 0.20, hidden node: 4  ------------		 train_loss: 0.143, validation loss: 0.274
+Progress: 100.0% ... Training loss: 0.136 ... Validation loss: 0.272
+** iteration: 5000, lr: 0.20, hidden node: 5  ------------		 train_loss: 0.137, validation loss: 0.272
+Progress: 100.0% ... Training loss: 0.166 ... Validation loss: 0.311
+** iteration: 5000, lr: 0.20, hidden node: 6  ------------		 train_loss: 0.166, validation loss: 0.311
+Progress: 100.0% ... Training loss: 0.126 ... Validation loss: 0.250
+** iteration: 5000, lr: 0.20, hidden node: 7  ------------		 train_loss: 0.127, validation loss: 0.251
+Progress: 100.0% ... Training loss: 0.119 ... Validation loss: 0.242
+** iteration: 5000, lr: 0.20, hidden node: 8  ------------		 train_loss: 0.119, validation loss: 0.242
+Progress: 100.0% ... Training loss: 0.153 ... Validation loss: 0.307
+** iteration: 5000, lr: 0.20, hidden node: 9  ------------		 train_loss: 0.153, validation loss: 0.308
+Progress: 100.0% ... Training loss: 0.125 ... Validation loss: 0.226
+** iteration: 5000, lr: 0.20, hidden node: 10  ------------		 train_loss: 0.126, validation loss: 0.226
+Progress: 100.0% ... Training loss: 0.149 ... Validation loss: 0.305
+** iteration: 5000, lr: 0.20, hidden node: 11  ------------		 train_loss: 0.150, validation loss: 0.306
+Progress: 100.0% ... Training loss: 0.121 ... Validation loss: 0.246
+** iteration: 5000, lr: 0.20, hidden node: 12  ------------		 train_loss: 0.121, validation loss: 0.247
+Progress: 100.0% ... Training loss: 0.098 ... Validation loss: 0.206
+** iteration: 5000, lr: 0.30, hidden node: 4  ------------		 train_loss: 0.099, validation loss: 0.206
+Progress: 100.0% ... Training loss: 0.077 ... Validation loss: 0.180
+** iteration: 5000, lr: 0.30, hidden node: 5  ------------		 train_loss: 0.077, validation loss: 0.181
+Progress: 100.0% ... Training loss: 0.080 ... Validation loss: 0.180
+** iteration: 5000, lr: 0.30, hidden node: 6  ------------		 train_loss: 0.081, validation loss: 0.181
+Progress: 100.0% ... Training loss: 0.072 ... Validation loss: 0.169
+** iteration: 5000, lr: 0.30, hidden node: 7  ------------		 train_loss: 0.073, validation loss: 0.169
+Progress: 100.0% ... Training loss: 0.076 ... Validation loss: 0.169
+** iteration: 5000, lr: 0.30, hidden node: 8  ------------		 train_loss: 0.076, validation loss: 0.169
+Progress: 100.0% ... Training loss: 0.091 ... Validation loss: 0.210
+** iteration: 5000, lr: 0.30, hidden node: 9  ------------		 train_loss: 0.092, validation loss: 0.210
+Progress: 100.0% ... Training loss: 0.091 ... Validation loss: 0.180
+** iteration: 5000, lr: 0.30, hidden node: 10  ------------		 train_loss: 0.091, validation loss: 0.181
+Progress: 100.0% ... Training loss: 0.108 ... Validation loss: 0.221
+** iteration: 5000, lr: 0.30, hidden node: 11  ------------		 train_loss: 0.108, validation loss: 0.222
+Progress: 100.0% ... Training loss: 0.077 ... Validation loss: 0.180
+** iteration: 5000, lr: 0.30, hidden node: 12  ------------		 train_loss: 0.078, validation loss: 0.181
+Progress: 100.0% ... Training loss: 0.089 ... Validation loss: 0.211
+** iteration: 5000, lr: 0.40, hidden node: 4  ------------		 train_loss: 0.090, validation loss: 0.211
+Progress: 100.0% ... Training loss: 0.066 ... Validation loss: 0.169
+** iteration: 5000, lr: 0.40, hidden node: 5  ------------		 train_loss: 0.067, validation loss: 0.170
+Progress: 100.0% ... Training loss: 0.066 ... Validation loss: 0.156
+** iteration: 5000, lr: 0.40, hidden node: 6  ------------		 train_loss: 0.067, validation loss: 0.157
+Progress: 100.0% ... Training loss: 0.063 ... Validation loss: 0.159
+** iteration: 5000, lr: 0.40, hidden node: 7  ------------		 train_loss: 0.063, validation loss: 0.159
+Progress: 100.0% ... Training loss: 0.070 ... Validation loss: 0.158
+** iteration: 5000, lr: 0.40, hidden node: 8  ------------		 train_loss: 0.070, validation loss: 0.158
+Progress: 100.0% ... Training loss: 0.078 ... Validation loss: 0.184
+** iteration: 5000, lr: 0.40, hidden node: 9  ------------		 train_loss: 0.079, validation loss: 0.185
+Progress: 100.0% ... Training loss: 0.080 ... Validation loss: 0.171
+** iteration: 5000, lr: 0.40, hidden node: 10  ------------		 train_loss: 0.080, validation loss: 0.172
+Progress: 100.0% ... Training loss: 0.083 ... Validation loss: 0.175
+** iteration: 5000, lr: 0.40, hidden node: 11  ------------		 train_loss: 0.084, validation loss: 0.176
+Progress: 100.0% ... Training loss: 0.073 ... Validation loss: 0.188
+** iteration: 5000, lr: 0.40, hidden node: 12  ------------		 train_loss: 0.073, validation loss: 0.189
+Progress: 100.0% ... Training loss: 0.112 ... Validation loss: 0.279
+** iteration: 5000, lr: 0.50, hidden node: 4  ------------		 train_loss: 0.112, validation loss: 0.279
+Progress: 100.0% ... Training loss: 0.062 ... Validation loss: 0.169
+** iteration: 5000, lr: 0.50, hidden node: 5  ------------		 train_loss: 0.062, validation loss: 0.170
+Progress: 100.0% ... Training loss: 0.062 ... Validation loss: 0.148
+** iteration: 5000, lr: 0.50, hidden node: 6  ------------		 train_loss: 0.063, validation loss: 0.149
+Progress: 100.0% ... Training loss: 0.061 ... Validation loss: 0.161
+** iteration: 5000, lr: 0.50, hidden node: 7  ------------		 train_loss: 0.061, validation loss: 0.162
+Progress: 100.0% ... Training loss: 0.071 ... Validation loss: 0.156
+** iteration: 5000, lr: 0.50, hidden node: 8  ------------		 train_loss: 0.071, validation loss: 0.156
+Progress: 100.0% ... Training loss: 0.073 ... Validation loss: 0.171
+** iteration: 5000, lr: 0.50, hidden node: 9  ------------		 train_loss: 0.074, validation loss: 0.171
+Progress: 100.0% ... Training loss: 0.070 ... Validation loss: 0.176
+** iteration: 5000, lr: 0.50, hidden node: 10  ------------		 train_loss: 0.071, validation loss: 0.177
+Progress: 100.0% ... Training loss: 0.069 ... Validation loss: 0.141
+** iteration: 5000, lr: 0.50, hidden node: 11  ------------		 train_loss: 0.070, validation loss: 0.141
+Progress: 100.0% ... Training loss: 0.072 ... Validation loss: 0.195
+** iteration: 5000, lr: 0.50, hidden node: 12  ------------		 train_loss: 0.073, validation loss: 0.195
+Progress: 100.0% ... Training loss: 0.116 ... Validation loss: 0.220
+** iteration: 6000, lr: 0.20, hidden node: 4  ------------		 train_loss: 0.117, validation loss: 0.221
+Progress: 100.0% ... Training loss: 0.100 ... Validation loss: 0.199
+** iteration: 6000, lr: 0.20, hidden node: 5  ------------		 train_loss: 0.101, validation loss: 0.199
+Progress: 100.0% ... Training loss: 0.122 ... Validation loss: 0.238
+** iteration: 6000, lr: 0.20, hidden node: 6  ------------		 train_loss: 0.122, validation loss: 0.239
+Progress: 100.0% ... Training loss: 0.091 ... Validation loss: 0.190
+** iteration: 6000, lr: 0.20, hidden node: 7  ------------		 train_loss: 0.091, validation loss: 0.190
+Progress: 100.0% ... Training loss: 0.091 ... Validation loss: 0.190
+** iteration: 6000, lr: 0.20, hidden node: 8  ------------		 train_loss: 0.091, validation loss: 0.190
+Progress: 100.0% ... Training loss: 0.117 ... Validation loss: 0.249
+** iteration: 6000, lr: 0.20, hidden node: 9  ------------		 train_loss: 0.117, validation loss: 0.249
+Progress: 100.0% ... Training loss: 0.106 ... Validation loss: 0.194
+** iteration: 6000, lr: 0.20, hidden node: 10  ------------		 train_loss: 0.106, validation loss: 0.195
+Progress: 100.0% ... Training loss: 0.124 ... Validation loss: 0.254
+** iteration: 6000, lr: 0.20, hidden node: 11  ------------		 train_loss: 0.125, validation loss: 0.255
+Progress: 100.0% ... Training loss: 0.094 ... Validation loss: 0.202
+** iteration: 6000, lr: 0.20, hidden node: 12  ------------		 train_loss: 0.095, validation loss: 0.202
+Progress: 100.0% ... Training loss: 0.087 ... Validation loss: 0.168
+** iteration: 6000, lr: 0.30, hidden node: 4  ------------		 train_loss: 0.088, validation loss: 0.169
+Progress: 100.0% ... Training loss: 0.068 ... Validation loss: 0.152
+** iteration: 6000, lr: 0.30, hidden node: 5  ------------		 train_loss: 0.068, validation loss: 0.153
+Progress: 100.0% ... Training loss: 0.071 ... Validation loss: 0.158
+** iteration: 6000, lr: 0.30, hidden node: 6  ------------		 train_loss: 0.071, validation loss: 0.159
+Progress: 100.0% ... Training loss: 0.065 ... Validation loss: 0.152
+** iteration: 6000, lr: 0.30, hidden node: 7  ------------		 train_loss: 0.065, validation loss: 0.153
+Progress: 100.0% ... Training loss: 0.070 ... Validation loss: 0.158
+** iteration: 6000, lr: 0.30, hidden node: 8  ------------		 train_loss: 0.070, validation loss: 0.158
+Progress: 100.0% ... Training loss: 0.080 ... Validation loss: 0.189
+** iteration: 6000, lr: 0.30, hidden node: 9  ------------		 train_loss: 0.080, validation loss: 0.189
+Progress: 100.0% ... Training loss: 0.086 ... Validation loss: 0.180
+** iteration: 6000, lr: 0.30, hidden node: 10  ------------		 train_loss: 0.086, validation loss: 0.180
+Progress: 100.0% ... Training loss: 0.089 ... Validation loss: 0.181
+** iteration: 6000, lr: 0.30, hidden node: 11  ------------		 train_loss: 0.090, validation loss: 0.181
+Progress: 100.0% ... Training loss: 0.071 ... Validation loss: 0.179
+** iteration: 6000, lr: 0.30, hidden node: 12  ------------		 train_loss: 0.071, validation loss: 0.180
+Progress: 100.0% ... Training loss: 0.080 ... Validation loss: 0.160
+** iteration: 6000, lr: 0.40, hidden node: 4  ------------		 train_loss: 0.080, validation loss: 0.160
+Progress: 100.0% ... Training loss: 0.061 ... Validation loss: 0.146
+** iteration: 6000, lr: 0.40, hidden node: 5  ------------		 train_loss: 0.062, validation loss: 0.146
+Progress: 100.0% ... Training loss: 0.064 ... Validation loss: 0.153
+** iteration: 6000, lr: 0.40, hidden node: 6  ------------		 train_loss: 0.065, validation loss: 0.153
+Progress: 100.0% ... Training loss: 0.059 ... Validation loss: 0.144
+** iteration: 6000, lr: 0.40, hidden node: 7  ------------		 train_loss: 0.060, validation loss: 0.145
+Progress: 100.0% ... Training loss: 0.074 ... Validation loss: 0.163
+** iteration: 6000, lr: 0.40, hidden node: 8  ------------		 train_loss: 0.074, validation loss: 0.163
+Progress: 100.0% ... Training loss: 0.071 ... Validation loss: 0.173
+** iteration: 6000, lr: 0.40, hidden node: 9  ------------		 train_loss: 0.072, validation loss: 0.174
+Progress: 100.0% ... Training loss: 0.081 ... Validation loss: 0.195
+** iteration: 6000, lr: 0.40, hidden node: 10  ------------		 train_loss: 0.081, validation loss: 0.196
+Progress: 100.0% ... Training loss: 0.068 ... Validation loss: 0.145
+** iteration: 6000, lr: 0.40, hidden node: 11  ------------		 train_loss: 0.069, validation loss: 0.146
+Progress: 100.0% ... Training loss: 0.068 ... Validation loss: 0.186
+** iteration: 6000, lr: 0.40, hidden node: 12  ------------		 train_loss: 0.069, validation loss: 0.186
+Progress: 100.0% ... Training loss: 0.077 ... Validation loss: 0.161
+** iteration: 6000, lr: 0.50, hidden node: 4  ------------		 train_loss: 0.077, validation loss: 0.161
+Progress: 100.0% ... Training loss: 0.059 ... Validation loss: 0.148
+** iteration: 6000, lr: 0.50, hidden node: 5  ------------		 train_loss: 0.059, validation loss: 0.148
+Progress: 100.0% ... Training loss: 0.062 ... Validation loss: 0.153
+** iteration: 6000, lr: 0.50, hidden node: 6  ------------		 train_loss: 0.063, validation loss: 0.154
+Progress: 100.0% ... Training loss: 0.059 ... Validation loss: 0.149
+** iteration: 6000, lr: 0.50, hidden node: 7  ------------		 train_loss: 0.059, validation loss: 0.149
+Progress: 100.0% ... Training loss: 0.063 ... Validation loss: 0.144
+** iteration: 6000, lr: 0.50, hidden node: 8  ------------		 train_loss: 0.063, validation loss: 0.144
+Progress: 100.0% ... Training loss: 0.067 ... Validation loss: 0.172
+** iteration: 6000, lr: 0.50, hidden node: 9  ------------		 train_loss: 0.067, validation loss: 0.173
+Progress: 100.0% ... Training loss: 0.070 ... Validation loss: 0.200
+** iteration: 6000, lr: 0.50, hidden node: 10  ------------		 train_loss: 0.071, validation loss: 0.200
+Progress: 100.0% ... Training loss: 0.063 ... Validation loss: 0.130
+** iteration: 6000, lr: 0.50, hidden node: 11  ------------		 train_loss: 0.063, validation loss: 0.130
+Progress: 100.0% ... Training loss: 0.065 ... Validation loss: 0.193
+** iteration: 6000, lr: 0.50, hidden node: 12  ------------		 train_loss: 0.066, validation loss: 0.193
+Progress: 100.0% ... Training loss: 0.100 ... Validation loss: 0.197
+** iteration: 7000, lr: 0.20, hidden node: 4  ------------		 train_loss: 0.100, validation loss: 0.197
+Progress: 100.0% ... Training loss: 0.081 ... Validation loss: 0.176
+** iteration: 7000, lr: 0.20, hidden node: 5  ------------		 train_loss: 0.082, validation loss: 0.177
+Progress: 100.0% ... Training loss: 0.090 ... Validation loss: 0.185
+** iteration: 7000, lr: 0.20, hidden node: 6  ------------		 train_loss: 0.091, validation loss: 0.185
+Progress: 100.0% ... Training loss: 0.076 ... Validation loss: 0.169
+** iteration: 7000, lr: 0.20, hidden node: 7  ------------		 train_loss: 0.077, validation loss: 0.170
+Progress: 100.0% ... Training loss: 0.077 ... Validation loss: 0.170
+** iteration: 7000, lr: 0.20, hidden node: 8  ------------		 train_loss: 0.078, validation loss: 0.170
+Progress: 100.0% ... Training loss: 0.096 ... Validation loss: 0.214
+** iteration: 7000, lr: 0.20, hidden node: 9  ------------		 train_loss: 0.096, validation loss: 0.215
+Progress: 100.0% ... Training loss: 0.093 ... Validation loss: 0.177
+** iteration: 7000, lr: 0.20, hidden node: 10  ------------		 train_loss: 0.094, validation loss: 0.178
+Progress: 100.0% ... Training loss: 0.108 ... Validation loss: 0.220
+** iteration: 7000, lr: 0.20, hidden node: 11  ------------		 train_loss: 0.109, validation loss: 0.220
+Progress: 100.0% ... Training loss: 0.079 ... Validation loss: 0.171
+** iteration: 7000, lr: 0.20, hidden node: 12  ------------		 train_loss: 0.080, validation loss: 0.172
+Progress: 100.0% ... Training loss: 0.080 ... Validation loss: 0.172
+** iteration: 7000, lr: 0.30, hidden node: 4  ------------		 train_loss: 0.080, validation loss: 0.172
+Progress: 100.0% ... Training loss: 0.063 ... Validation loss: 0.151
+** iteration: 7000, lr: 0.30, hidden node: 5  ------------		 train_loss: 0.064, validation loss: 0.152
+Progress: 100.0% ... Training loss: 0.064 ... Validation loss: 0.145
+** iteration: 7000, lr: 0.30, hidden node: 6  ------------		 train_loss: 0.065, validation loss: 0.146
+Progress: 100.0% ... Training loss: 0.063 ... Validation loss: 0.161
+** iteration: 7000, lr: 0.30, hidden node: 7  ------------		 train_loss: 0.064, validation loss: 0.162
+Progress: 100.0% ... Training loss: 0.066 ... Validation loss: 0.150
+** iteration: 7000, lr: 0.30, hidden node: 8  ------------		 train_loss: 0.066, validation loss: 0.151
+Progress: 100.0% ... Training loss: 0.074 ... Validation loss: 0.173
+** iteration: 7000, lr: 0.30, hidden node: 9  ------------		 train_loss: 0.074, validation loss: 0.173
+Progress: 100.0% ... Training loss: 0.078 ... Validation loss: 0.168
+** iteration: 7000, lr: 0.30, hidden node: 10  ------------		 train_loss: 0.078, validation loss: 0.169
+Progress: 100.0% ... Training loss: 0.080 ... Validation loss: 0.167
+** iteration: 7000, lr: 0.30, hidden node: 11  ------------		 train_loss: 0.080, validation loss: 0.168
+Progress: 100.0% ... Training loss: 0.065 ... Validation loss: 0.152
+** iteration: 7000, lr: 0.30, hidden node: 12  ------------		 train_loss: 0.065, validation loss: 0.152
+Progress: 100.0% ... Training loss: 0.074 ... Validation loss: 0.171
+** iteration: 7000, lr: 0.40, hidden node: 4  ------------		 train_loss: 0.074, validation loss: 0.172
+Progress: 100.0% ... Training loss: 0.059 ... Validation loss: 0.148
+** iteration: 7000, lr: 0.40, hidden node: 5  ------------		 train_loss: 0.059, validation loss: 0.149
+Progress: 100.0% ... Training loss: 0.060 ... Validation loss: 0.143
+** iteration: 7000, lr: 0.40, hidden node: 6  ------------		 train_loss: 0.060, validation loss: 0.143
+Progress: 100.0% ... Training loss: 0.061 ... Validation loss: 0.158
+** iteration: 7000, lr: 0.40, hidden node: 7  ------------		 train_loss: 0.061, validation loss: 0.159
+Progress: 100.0% ... Training loss: 0.065 ... Validation loss: 0.145
+** iteration: 7000, lr: 0.40, hidden node: 8  ------------		 train_loss: 0.066, validation loss: 0.146
+Progress: 100.0% ... Training loss: 0.067 ... Validation loss: 0.162
+** iteration: 7000, lr: 0.40, hidden node: 9  ------------		 train_loss: 0.068, validation loss: 0.162
+Progress: 100.0% ... Training loss: 0.072 ... Validation loss: 0.167
+** iteration: 7000, lr: 0.40, hidden node: 10  ------------		 train_loss: 0.072, validation loss: 0.168
+Progress: 100.0% ... Training loss: 0.063 ... Validation loss: 0.140
+** iteration: 7000, lr: 0.40, hidden node: 11  ------------		 train_loss: 0.063, validation loss: 0.140
+Progress: 100.0% ... Training loss: 0.060 ... Validation loss: 0.147
+** iteration: 7000, lr: 0.40, hidden node: 12  ------------		 train_loss: 0.061, validation loss: 0.148
+Progress: 100.0% ... Training loss: 0.071 ... Validation loss: 0.173
+** iteration: 7000, lr: 0.50, hidden node: 4  ------------		 train_loss: 0.072, validation loss: 0.173
+Progress: 100.0% ... Training loss: 0.058 ... Validation loss: 0.147
+** iteration: 7000, lr: 0.50, hidden node: 5  ------------		 train_loss: 0.058, validation loss: 0.148
+Progress: 100.0% ... Training loss: 0.059 ... Validation loss: 0.145
+** iteration: 7000, lr: 0.50, hidden node: 6  ------------		 train_loss: 0.059, validation loss: 0.145
+Progress: 100.0% ... Training loss: 0.061 ... Validation loss: 0.167
+** iteration: 7000, lr: 0.50, hidden node: 7  ------------		 train_loss: 0.061, validation loss: 0.168
+Progress: 100.0% ... Training loss: 0.071 ... Validation loss: 0.145
+** iteration: 7000, lr: 0.50, hidden node: 8  ------------		 train_loss: 0.071, validation loss: 0.146
+Progress: 100.0% ... Training loss: 0.062 ... Validation loss: 0.167
+** iteration: 7000, lr: 0.50, hidden node: 9  ------------		 train_loss: 0.062, validation loss: 0.168
+Progress: 100.0% ... Training loss: 0.064 ... Validation loss: 0.162
+** iteration: 7000, lr: 0.50, hidden node: 10  ------------		 train_loss: 0.064, validation loss: 0.163
+Progress: 100.0% ... Training loss: 0.059 ... Validation loss: 0.131
+** iteration: 7000, lr: 0.50, hidden node: 11  ------------		 train_loss: 0.059, validation loss: 0.131
+Progress: 100.0% ... Training loss: 0.059 ... Validation loss: 0.159
+** iteration: 7000, lr: 0.50, hidden node: 12  ------------		 train_loss: 0.060, validation loss: 0.160
+Progress: 100.0% ... Training loss: 0.090 ... Validation loss: 0.186
+** iteration: 8000, lr: 0.20, hidden node: 4  ------------		 train_loss: 0.091, validation loss: 0.187
+Progress: 100.0% ... Training loss: 0.073 ... Validation loss: 0.164
+** iteration: 8000, lr: 0.20, hidden node: 5  ------------		 train_loss: 0.073, validation loss: 0.165
+Progress: 100.0% ... Training loss: 0.076 ... Validation loss: 0.163
+** iteration: 8000, lr: 0.20, hidden node: 6  ------------		 train_loss: 0.076, validation loss: 0.163
+Progress: 100.0% ... Training loss: 0.068 ... Validation loss: 0.163
+** iteration: 8000, lr: 0.20, hidden node: 7  ------------		 train_loss: 0.069, validation loss: 0.163
+Progress: 100.0% ... Training loss: 0.071 ... Validation loss: 0.165
+** iteration: 8000, lr: 0.20, hidden node: 8  ------------		 train_loss: 0.071, validation loss: 0.165
+Progress: 100.0% ... Training loss: 0.085 ... Validation loss: 0.203
+** iteration: 8000, lr: 0.20, hidden node: 9  ------------		 train_loss: 0.086, validation loss: 0.204
+Progress: 100.0% ... Training loss: 0.085 ... Validation loss: 0.176
+** iteration: 8000, lr: 0.20, hidden node: 10  ------------		 train_loss: 0.085, validation loss: 0.177
+Progress: 100.0% ... Training loss: 0.097 ... Validation loss: 0.199
+** iteration: 8000, lr: 0.20, hidden node: 11  ------------		 train_loss: 0.098, validation loss: 0.199
+Progress: 100.0% ... Training loss: 0.072 ... Validation loss: 0.172
+** iteration: 8000, lr: 0.20, hidden node: 12  ------------		 train_loss: 0.072, validation loss: 0.172
+Progress: 100.0% ... Training loss: 0.076 ... Validation loss: 0.175
+** iteration: 8000, lr: 0.30, hidden node: 4  ------------		 train_loss: 0.076, validation loss: 0.176
+Progress: 100.0% ... Training loss: 0.062 ... Validation loss: 0.154
+** iteration: 8000, lr: 0.30, hidden node: 5  ------------		 train_loss: 0.062, validation loss: 0.155
+Progress: 100.0% ... Training loss: 0.061 ... Validation loss: 0.145
+** iteration: 8000, lr: 0.30, hidden node: 6  ------------		 train_loss: 0.062, validation loss: 0.146
+Progress: 100.0% ... Training loss: 0.058 ... Validation loss: 0.158
+** iteration: 8000, lr: 0.30, hidden node: 7  ------------		 train_loss: 0.059, validation loss: 0.159
+Progress: 100.0% ... Training loss: 0.062 ... Validation loss: 0.155
+** iteration: 8000, lr: 0.30, hidden node: 8  ------------		 train_loss: 0.063, validation loss: 0.155
+Progress: 100.0% ... Training loss: 0.069 ... Validation loss: 0.169
+** iteration: 8000, lr: 0.30, hidden node: 9  ------------		 train_loss: 0.069, validation loss: 0.169
+Progress: 100.0% ... Training loss: 0.071 ... Validation loss: 0.166
+** iteration: 8000, lr: 0.30, hidden node: 10  ------------		 train_loss: 0.072, validation loss: 0.166
+Progress: 100.0% ... Training loss: 0.072 ... Validation loss: 0.154
+** iteration: 8000, lr: 0.30, hidden node: 11  ------------		 train_loss: 0.073, validation loss: 0.155
+Progress: 100.0% ... Training loss: 0.062 ... Validation loss: 0.170
+** iteration: 8000, lr: 0.30, hidden node: 12  ------------		 train_loss: 0.062, validation loss: 0.170
+Progress: 100.0% ... Training loss: 0.072 ... Validation loss: 0.184
+** iteration: 8000, lr: 0.40, hidden node: 4  ------------		 train_loss: 0.072, validation loss: 0.185
+Progress: 100.0% ... Training loss: 0.059 ... Validation loss: 0.156
+** iteration: 8000, lr: 0.40, hidden node: 5  ------------		 train_loss: 0.059, validation loss: 0.157
+Progress: 100.0% ... Training loss: 0.058 ... Validation loss: 0.144
+** iteration: 8000, lr: 0.40, hidden node: 6  ------------		 train_loss: 0.059, validation loss: 0.145
+Progress: 100.0% ... Training loss: 0.056 ... Validation loss: 0.158
+** iteration: 8000, lr: 0.40, hidden node: 7  ------------		 train_loss: 0.056, validation loss: 0.158
+Progress: 100.0% ... Training loss: 0.062 ... Validation loss: 0.147
+** iteration: 8000, lr: 0.40, hidden node: 8  ------------		 train_loss: 0.063, validation loss: 0.148
+Progress: 100.0% ... Training loss: 0.064 ... Validation loss: 0.165
+** iteration: 8000, lr: 0.40, hidden node: 9  ------------		 train_loss: 0.064, validation loss: 0.166
+Progress: 100.0% ... Training loss: 0.070 ... Validation loss: 0.161
+** iteration: 8000, lr: 0.40, hidden node: 10  ------------		 train_loss: 0.070, validation loss: 0.161
+Progress: 100.0% ... Training loss: 0.059 ... Validation loss: 0.140
+** iteration: 8000, lr: 0.40, hidden node: 11  ------------		 train_loss: 0.060, validation loss: 0.141
+Progress: 100.0% ... Training loss: 0.058 ... Validation loss: 0.169
+** iteration: 8000, lr: 0.40, hidden node: 12  ------------		 train_loss: 0.059, validation loss: 0.169
+Progress: 100.0% ... Training loss: 0.071 ... Validation loss: 0.197
+** iteration: 8000, lr: 0.50, hidden node: 4  ------------		 train_loss: 0.072, validation loss: 0.197
+Progress: 100.0% ... Training loss: 0.058 ... Validation loss: 0.157
+** iteration: 8000, lr: 0.50, hidden node: 5  ------------		 train_loss: 0.058, validation loss: 0.158
+Progress: 100.0% ... Training loss: 0.057 ... Validation loss: 0.145
+** iteration: 8000, lr: 0.50, hidden node: 6  ------------		 train_loss: 0.058, validation loss: 0.145
+Progress: 100.0% ... Training loss: 0.060 ... Validation loss: 0.178
+** iteration: 8000, lr: 0.50, hidden node: 7  ------------		 train_loss: 0.061, validation loss: 0.178
+Progress: 100.0% ... Training loss: 0.064 ... Validation loss: 0.140
+** iteration: 8000, lr: 0.50, hidden node: 8  ------------		 train_loss: 0.065, validation loss: 0.141
+Progress: 100.0% ... Training loss: 0.059 ... Validation loss: 0.172
+** iteration: 8000, lr: 0.50, hidden node: 9  ------------		 train_loss: 0.060, validation loss: 0.173
+Progress: 100.0% ... Training loss: 0.065 ... Validation loss: 0.153
+** iteration: 8000, lr: 0.50, hidden node: 10  ------------		 train_loss: 0.066, validation loss: 0.154
+Progress: 100.0% ... Training loss: 0.057 ... Validation loss: 0.136
+** iteration: 8000, lr: 0.50, hidden node: 11  ------------		 train_loss: 0.057, validation loss: 0.137
+Progress: 100.0% ... Training loss: 0.059 ... Validation loss: 0.177
+** iteration: 8000, lr: 0.50, hidden node: 12  ------------		 train_loss: 0.059, validation loss: 0.178
+Progress: 100.0% ... Training loss: 0.084 ... Validation loss: 0.173
+** iteration: 9000, lr: 0.20, hidden node: 4  ------------		 train_loss: 0.085, validation loss: 0.174
+Progress: 100.0% ... Training loss: 0.068 ... Validation loss: 0.150
+** iteration: 9000, lr: 0.20, hidden node: 5  ------------		 train_loss: 0.068, validation loss: 0.150
+Progress: 100.0% ... Training loss: 0.069 ... Validation loss: 0.147
+** iteration: 9000, lr: 0.20, hidden node: 6  ------------		 train_loss: 0.070, validation loss: 0.147
+Progress: 100.0% ... Training loss: 0.065 ... Validation loss: 0.153
+** iteration: 9000, lr: 0.20, hidden node: 7  ------------		 train_loss: 0.066, validation loss: 0.154
+Progress: 100.0% ... Training loss: 0.068 ... Validation loss: 0.149
+** iteration: 9000, lr: 0.20, hidden node: 8  ------------		 train_loss: 0.068, validation loss: 0.149
+Progress: 100.0% ... Training loss: 0.079 ... Validation loss: 0.179
+** iteration: 9000, lr: 0.20, hidden node: 9  ------------		 train_loss: 0.080, validation loss: 0.179
+Progress: 100.0% ... Training loss: 0.080 ... Validation loss: 0.164
+** iteration: 9000, lr: 0.20, hidden node: 10  ------------		 train_loss: 0.081, validation loss: 0.165
+Progress: 100.0% ... Training loss: 0.088 ... Validation loss: 0.175
+** iteration: 9000, lr: 0.20, hidden node: 11  ------------		 train_loss: 0.089, validation loss: 0.175
+Progress: 100.0% ... Training loss: 0.067 ... Validation loss: 0.159
+** iteration: 9000, lr: 0.20, hidden node: 12  ------------		 train_loss: 0.068, validation loss: 0.159
+Progress: 100.0% ... Training loss: 0.074 ... Validation loss: 0.168
+** iteration: 9000, lr: 0.30, hidden node: 4  ------------		 train_loss: 0.074, validation loss: 0.169
+Progress: 100.0% ... Training loss: 0.059 ... Validation loss: 0.142
+** iteration: 9000, lr: 0.30, hidden node: 5  ------------		 train_loss: 0.060, validation loss: 0.142
+Progress: 100.0% ... Training loss: 0.060 ... Validation loss: 0.136
+** iteration: 9000, lr: 0.30, hidden node: 6  ------------		 train_loss: 0.060, validation loss: 0.137
+Progress: 100.0% ... Training loss: 0.058 ... Validation loss: 0.148
+** iteration: 9000, lr: 0.30, hidden node: 7  ------------		 train_loss: 0.058, validation loss: 0.149
+Progress: 100.0% ... Training loss: 0.061 ... Validation loss: 0.141
+** iteration: 9000, lr: 0.30, hidden node: 8  ------------		 train_loss: 0.061, validation loss: 0.141
+Progress: 100.0% ... Training loss: 0.065 ... Validation loss: 0.155
+** iteration: 9000, lr: 0.30, hidden node: 9  ------------		 train_loss: 0.065, validation loss: 0.155
+Progress: 100.0% ... Training loss: 0.067 ... Validation loss: 0.161
+** iteration: 9000, lr: 0.30, hidden node: 10  ------------		 train_loss: 0.068, validation loss: 0.162
+Progress: 100.0% ... Training loss: 0.066 ... Validation loss: 0.140
+** iteration: 9000, lr: 0.30, hidden node: 11  ------------		 train_loss: 0.066, validation loss: 0.140
+Progress: 100.0% ... Training loss: 0.060 ... Validation loss: 0.157
+** iteration: 9000, lr: 0.30, hidden node: 12  ------------		 train_loss: 0.060, validation loss: 0.157
+Progress: 100.0% ... Training loss: 0.070 ... Validation loss: 0.171
+** iteration: 9000, lr: 0.40, hidden node: 4  ------------		 train_loss: 0.071, validation loss: 0.171
+Progress: 100.0% ... Training loss: 0.057 ... Validation loss: 0.142
+** iteration: 9000, lr: 0.40, hidden node: 5  ------------		 train_loss: 0.057, validation loss: 0.143
+Progress: 100.0% ... Training loss: 0.057 ... Validation loss: 0.135
+** iteration: 9000, lr: 0.40, hidden node: 6  ------------		 train_loss: 0.058, validation loss: 0.136
+Progress: 100.0% ... Training loss: 0.057 ... Validation loss: 0.146
+** iteration: 9000, lr: 0.40, hidden node: 7  ------------		 train_loss: 0.057, validation loss: 0.147
+Progress: 100.0% ... Training loss: 0.060 ... Validation loss: 0.136
+** iteration: 9000, lr: 0.40, hidden node: 8  ------------		 train_loss: 0.061, validation loss: 0.137
+Progress: 100.0% ... Training loss: 0.061 ... Validation loss: 0.154
+** iteration: 9000, lr: 0.40, hidden node: 9  ------------		 train_loss: 0.062, validation loss: 0.154
+Progress: 100.0% ... Training loss: 0.065 ... Validation loss: 0.178
+** iteration: 9000, lr: 0.40, hidden node: 10  ------------		 train_loss: 0.065, validation loss: 0.178
+Progress: 100.0% ... Training loss: 0.055 ... Validation loss: 0.133
+** iteration: 9000, lr: 0.40, hidden node: 11  ------------		 train_loss: 0.056, validation loss: 0.134
+Progress: 100.0% ... Training loss: 0.058 ... Validation loss: 0.160
+** iteration: 9000, lr: 0.40, hidden node: 12  ------------		 train_loss: 0.059, validation loss: 0.160
+Progress: 100.0% ... Training loss: 0.075 ... Validation loss: 0.155
+** iteration: 9000, lr: 0.50, hidden node: 4  ------------		 train_loss: 0.076, validation loss: 0.155
+Progress: 100.0% ... Training loss: 0.056 ... Validation loss: 0.144
+** iteration: 9000, lr: 0.50, hidden node: 5  ------------		 train_loss: 0.056, validation loss: 0.144
+Progress: 100.0% ... Training loss: 0.056 ... Validation loss: 0.137
+** iteration: 9000, lr: 0.50, hidden node: 6  ------------		 train_loss: 0.057, validation loss: 0.137
+Progress: 100.0% ... Training loss: 0.057 ... Validation loss: 0.151
+** iteration: 9000, lr: 0.50, hidden node: 7  ------------		 train_loss: 0.057, validation loss: 0.152
+Progress: 100.0% ... Training loss: 0.057 ... Validation loss: 0.136
+** iteration: 9000, lr: 0.50, hidden node: 8  ------------		 train_loss: 0.057, validation loss: 0.136
+Progress: 100.0% ... Training loss: 0.058 ... Validation loss: 0.150
+** iteration: 9000, lr: 0.50, hidden node: 9  ------------		 train_loss: 0.058, validation loss: 0.150
+Progress: 100.0% ... Training loss: 0.062 ... Validation loss: 0.182
+** iteration: 9000, lr: 0.50, hidden node: 10  ------------		 train_loss: 0.063, validation loss: 0.182
+Progress: 100.0% ... Training loss: 0.054 ... Validation loss: 0.128
+** iteration: 9000, lr: 0.50, hidden node: 11  ------------		 train_loss: 0.054, validation loss: 0.128
+Progress: 100.0% ... Training loss: 0.058 ... Validation loss: 0.192
+** iteration: 9000, lr: 0.50, hidden node: 12  ------------		 train_loss: 0.058, validation loss: 0.192
+Progress: 100.0% ... Training loss: 0.080 ... Validation loss: 0.176
+** iteration: 10000, lr: 0.20, hidden node: 4  ------------		 train_loss: 0.080, validation loss: 0.176
+Progress: 100.0% ... Training loss: 0.064 ... Validation loss: 0.151
+** iteration: 10000, lr: 0.20, hidden node: 5  ------------		 train_loss: 0.065, validation loss: 0.152
+Progress: 100.0% ... Training loss: 0.066 ... Validation loss: 0.147
+** iteration: 10000, lr: 0.20, hidden node: 6  ------------		 train_loss: 0.066, validation loss: 0.148
+Progress: 100.0% ... Training loss: 0.062 ... Validation loss: 0.159
+** iteration: 10000, lr: 0.20, hidden node: 7  ------------		 train_loss: 0.062, validation loss: 0.159
+Progress: 100.0% ... Training loss: 0.065 ... Validation loss: 0.151
+** iteration: 10000, lr: 0.20, hidden node: 8  ------------		 train_loss: 0.066, validation loss: 0.151
+Progress: 100.0% ... Training loss: 0.074 ... Validation loss: 0.182
+** iteration: 10000, lr: 0.20, hidden node: 9  ------------		 train_loss: 0.075, validation loss: 0.182
+Progress: 100.0% ... Training loss: 0.076 ... Validation loss: 0.172
+** iteration: 10000, lr: 0.20, hidden node: 10  ------------		 train_loss: 0.076, validation loss: 0.173
+Progress: 100.0% ... Training loss: 0.082 ... Validation loss: 0.167
+** iteration: 10000, lr: 0.20, hidden node: 11  ------------		 train_loss: 0.083, validation loss: 0.168
+Progress: 100.0% ... Training loss: 0.065 ... Validation loss: 0.169
+** iteration: 10000, lr: 0.20, hidden node: 12  ------------		 train_loss: 0.065, validation loss: 0.169
+Progress: 100.0% ... Training loss: 0.072 ... Validation loss: 0.176
+** iteration: 10000, lr: 0.30, hidden node: 4  ------------		 train_loss: 0.072, validation loss: 0.176
+Progress: 100.0% ... Training loss: 0.058 ... Validation loss: 0.147
+** iteration: 10000, lr: 0.30, hidden node: 5  ------------		 train_loss: 0.058, validation loss: 0.147
+Progress: 100.0% ... Training loss: 0.059 ... Validation loss: 0.144
+** iteration: 10000, lr: 0.30, hidden node: 6  ------------		 train_loss: 0.059, validation loss: 0.144
+Progress: 100.0% ... Training loss: 0.055 ... Validation loss: 0.151
+** iteration: 10000, lr: 0.30, hidden node: 7  ------------		 train_loss: 0.055, validation loss: 0.152
+Progress: 100.0% ... Training loss: 0.059 ... Validation loss: 0.154
+** iteration: 10000, lr: 0.30, hidden node: 8  ------------		 train_loss: 0.059, validation loss: 0.154
+Progress: 100.0% ... Training loss: 0.063 ... Validation loss: 0.165
+** iteration: 10000, lr: 0.30, hidden node: 9  ------------		 train_loss: 0.064, validation loss: 0.166
+Progress: 100.0% ... Training loss: 0.065 ... Validation loss: 0.172
+** iteration: 10000, lr: 0.30, hidden node: 10  ------------		 train_loss: 0.066, validation loss: 0.172
+Progress: 100.0% ... Training loss: 0.064 ... Validation loss: 0.141
+** iteration: 10000, lr: 0.30, hidden node: 11  ------------		 train_loss: 0.064, validation loss: 0.142
+Progress: 100.0% ... Training loss: 0.063 ... Validation loss: 0.171
+** iteration: 10000, lr: 0.30, hidden node: 12  ------------		 train_loss: 0.064, validation loss: 0.171
+Progress: 100.0% ... Training loss: 0.071 ... Validation loss: 0.167
+** iteration: 10000, lr: 0.40, hidden node: 4  ------------		 train_loss: 0.072, validation loss: 0.167
+Progress: 100.0% ... Training loss: 0.056 ... Validation loss: 0.148
+** iteration: 10000, lr: 0.40, hidden node: 5  ------------		 train_loss: 0.057, validation loss: 0.148
+Progress: 100.0% ... Training loss: 0.057 ... Validation loss: 0.145
+** iteration: 10000, lr: 0.40, hidden node: 6  ------------		 train_loss: 0.057, validation loss: 0.145
+Progress: 100.0% ... Training loss: 0.053 ... Validation loss: 0.149
+** iteration: 10000, lr: 0.40, hidden node: 7  ------------		 train_loss: 0.054, validation loss: 0.149
+Progress: 100.0% ... Training loss: 0.062 ... Validation loss: 0.145
+** iteration: 10000, lr: 0.40, hidden node: 8  ------------		 train_loss: 0.063, validation loss: 0.146
+Progress: 100.0% ... Training loss: 0.061 ... Validation loss: 0.172
+** iteration: 10000, lr: 0.40, hidden node: 9  ------------		 train_loss: 0.062, validation loss: 0.173
+Progress: 100.0% ... Training loss: 0.063 ... Validation loss: 0.163
+** iteration: 10000, lr: 0.40, hidden node: 10  ------------		 train_loss: 0.063, validation loss: 0.163
+Progress: 100.0% ... Training loss: 0.058 ... Validation loss: 0.139
+** iteration: 10000, lr: 0.40, hidden node: 11  ------------		 train_loss: 0.058, validation loss: 0.139
+Progress: 100.0% ... Training loss: 0.065 ... Validation loss: 0.167
+** iteration: 10000, lr: 0.40, hidden node: 12  ------------		 train_loss: 0.065, validation loss: 0.167
+Progress: 100.0% ... Training loss: 0.086 ... Validation loss: 0.162
+** iteration: 10000, lr: 0.50, hidden node: 4  ------------		 train_loss: 0.087, validation loss: 0.163
+Progress: 100.0% ... Training loss: 0.057 ... Validation loss: 0.154
+** iteration: 10000, lr: 0.50, hidden node: 5  ------------		 train_loss: 0.057, validation loss: 0.155
+Progress: 100.0% ... Training loss: 0.056 ... Validation loss: 0.147
+** iteration: 10000, lr: 0.50, hidden node: 6  ------------		 train_loss: 0.056, validation loss: 0.147
+Progress: 100.0% ... Training loss: 0.053 ... Validation loss: 0.157
+** iteration: 10000, lr: 0.50, hidden node: 7  ------------		 train_loss: 0.054, validation loss: 0.158
+Progress: 100.0% ... Training loss: 0.072 ... Validation loss: 0.141
+** iteration: 10000, lr: 0.50, hidden node: 8  ------------		 train_loss: 0.072, validation loss: 0.142
+Progress: 100.0% ... Training loss: 0.060 ... Validation loss: 0.176
+** iteration: 10000, lr: 0.50, hidden node: 9  ------------		 train_loss: 0.061, validation loss: 0.177
+Progress: 100.0% ... Training loss: 0.056 ... Validation loss: 0.162
+** iteration: 10000, lr: 0.50, hidden node: 10  ------------		 train_loss: 0.057, validation loss: 0.162
+Progress: 100.0% ... Training loss: 0.056 ... Validation loss: 0.139
+** iteration: 10000, lr: 0.50, hidden node: 11  ------------		 train_loss: 0.057, validation loss: 0.140
+Progress: 100.0% ... Training loss: 0.062 ... Validation loss: 0.194
+** iteration: 10000, lr: 0.50, hidden node: 12  ------------		 train_loss: 0.062, validation loss: 0.195
+In [147]:
+
+
