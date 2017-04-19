@@ -1,0 +1,240 @@
+Progress: 100.0% ... Training loss: 0.062 ... Validation loss: 0.169
+** iteration: 5000, lr: 0.50, hidden: 5 ==>train_loss: 0.062, validation loss: 0.170
+Progress: 100.0% ... Training loss: 0.062 ... Validation loss: 0.148
+** iteration: 5000, lr: 0.50, hidden: 6 ==>train_loss: 0.063, validation loss: 0.149
+Progress: 100.0% ... Training loss: 0.061 ... Validation loss: 0.161
+** iteration: 5000, lr: 0.50, hidden: 7 ==>train_loss: 0.061, validation loss: 0.162
+Progress: 100.0% ... Training loss: 0.071 ... Validation loss: 0.156
+** iteration: 5000, lr: 0.50, hidden: 8 ==>train_loss: 0.071, validation loss: 0.156
+Progress: 100.0% ... Training loss: 0.073 ... Validation loss: 0.171
+** iteration: 5000, lr: 0.50, hidden: 9 ==>train_loss: 0.074, validation loss: 0.171
+Progress: 100.0% ... Training loss: 0.070 ... Validation loss: 0.176
+** iteration: 5000, lr: 0.50, hidden: 10 ==>train_loss: 0.071, validation loss: 0.177
+Progress: 100.0% ... Training loss: 0.069 ... Validation loss: 0.141
+** iteration: 5000, lr: 0.50, hidden: 11 ==>train_loss: 0.070, validation loss: 0.141
+Progress: 100.0% ... Training loss: 0.072 ... Validation loss: 0.195
+** iteration: 5000, lr: 0.50, hidden: 12 ==>train_loss: 0.073, validation loss: 0.195
+Progress: 100.0% ... Training loss: 0.060 ... Validation loss: 0.161
+** iteration: 5000, lr: 0.60, hidden: 5 ==>train_loss: 0.060, validation loss: 0.162
+Progress: 100.0% ... Training loss: 0.061 ... Validation loss: 0.144
+** iteration: 5000, lr: 0.60, hidden: 6 ==>train_loss: 0.061, validation loss: 0.145
+Progress: 100.0% ... Training loss: 0.058 ... Validation loss: 0.157
+** iteration: 5000, lr: 0.60, hidden: 7 ==>train_loss: 0.059, validation loss: 0.157
+Progress: 100.0% ... Training loss: 0.065 ... Validation loss: 0.185
+** iteration: 5000, lr: 0.60, hidden: 8 ==>train_loss: 0.066, validation loss: 0.186
+Progress: 100.0% ... Training loss: 0.072 ... Validation loss: 0.169
+** iteration: 5000, lr: 0.60, hidden: 9 ==>train_loss: 0.072, validation loss: 0.169
+Progress: 100.0% ... Training loss: 0.062 ... Validation loss: 0.159
+** iteration: 5000, lr: 0.60, hidden: 10 ==>train_loss: 0.063, validation loss: 0.160
+Progress: 100.0% ... Training loss: 0.063 ... Validation loss: 0.169
+** iteration: 5000, lr: 0.60, hidden: 11 ==>train_loss: 0.064, validation loss: 0.169
+Progress: 100.0% ... Training loss: 0.060 ... Validation loss: 0.170
+** iteration: 5000, lr: 0.60, hidden: 12 ==>train_loss: 0.060, validation loss: 0.171
+Progress: 100.0% ... Training loss: 0.064 ... Validation loss: 0.147
+** iteration: 5000, lr: 0.70, hidden: 5 ==>train_loss: 0.065, validation loss: 0.147
+Progress: 100.0% ... Training loss: 0.060 ... Validation loss: 0.141
+** iteration: 5000, lr: 0.70, hidden: 6 ==>train_loss: 0.060, validation loss: 0.142
+Progress: 100.0% ... Training loss: 0.059 ... Validation loss: 0.150
+** iteration: 5000, lr: 0.70, hidden: 7 ==>train_loss: 0.060, validation loss: 0.151
+Progress: 100.0% ... Training loss: 0.065 ... Validation loss: 0.178
+** iteration: 5000, lr: 0.70, hidden: 8 ==>train_loss: 0.065, validation loss: 0.179
+Progress: 100.0% ... Training loss: 0.064 ... Validation loss: 0.144
+** iteration: 5000, lr: 0.70, hidden: 9 ==>train_loss: 0.065, validation loss: 0.144
+Progress: 100.0% ... Training loss: 0.061 ... Validation loss: 0.162
+** iteration: 5000, lr: 0.70, hidden: 10 ==>train_loss: 0.061, validation loss: 0.162
+Progress: 100.0% ... Training loss: 0.058 ... Validation loss: 0.159
+** iteration: 5000, lr: 0.70, hidden: 11 ==>train_loss: 0.059, validation loss: 0.159
+Progress: 100.0% ... Training loss: 0.057 ... Validation loss: 0.161
+** iteration: 5000, lr: 0.70, hidden: 12 ==>train_loss: 0.057, validation loss: 0.162
+Progress: 100.0% ... Training loss: 0.071 ... Validation loss: 0.135
+** iteration: 5000, lr: 0.80, hidden: 5 ==>train_loss: 0.072, validation loss: 0.136
+Progress: 100.0% ... Training loss: 0.060 ... Validation loss: 0.140
+** iteration: 5000, lr: 0.80, hidden: 6 ==>train_loss: 0.060, validation loss: 0.141
+Progress: 100.0% ... Training loss: 0.056 ... Validation loss: 0.152
+** iteration: 5000, lr: 0.80, hidden: 7 ==>train_loss: 0.057, validation loss: 0.152
+Progress: 100.0% ... Training loss: 0.063 ... Validation loss: 0.166
+** iteration: 5000, lr: 0.80, hidden: 8 ==>train_loss: 0.064, validation loss: 0.167
+Progress: 100.0% ... Training loss: 0.058 ... Validation loss: 0.157
+** iteration: 5000, lr: 0.80, hidden: 9 ==>train_loss: 0.058, validation loss: 0.158
+Progress: 100.0% ... Training loss: 0.057 ... Validation loss: 0.145
+** iteration: 5000, lr: 0.80, hidden: 10 ==>train_loss: 0.058, validation loss: 0.146
+Progress: 100.0% ... Training loss: 0.057 ... Validation loss: 0.150
+** iteration: 5000, lr: 0.80, hidden: 11 ==>train_loss: 0.057, validation loss: 0.150
+Progress: 100.0% ... Training loss: 0.059 ... Validation loss: 0.170
+** iteration: 5000, lr: 0.80, hidden: 12 ==>train_loss: 0.059, validation loss: 0.171
+Progress: 100.0% ... Training loss: 0.073 ... Validation loss: 0.137
+** iteration: 5000, lr: 0.90, hidden: 5 ==>train_loss: 0.074, validation loss: 0.137
+Progress: 100.0% ... Training loss: 0.061 ... Validation loss: 0.142
+** iteration: 5000, lr: 0.90, hidden: 6 ==>train_loss: 0.061, validation loss: 0.142
+Progress: 100.0% ... Training loss: 0.056 ... Validation loss: 0.156
+** iteration: 5000, lr: 0.90, hidden: 7 ==>train_loss: 0.057, validation loss: 0.157
+Progress: 100.0% ... Training loss: 0.059 ... Validation loss: 0.166
+** iteration: 5000, lr: 0.90, hidden: 8 ==>train_loss: 0.060, validation loss: 0.166
+Progress: 100.0% ... Training loss: 0.057 ... Validation loss: 0.158
+** iteration: 5000, lr: 0.90, hidden: 9 ==>train_loss: 0.058, validation loss: 0.159
+Progress: 100.0% ... Training loss: 0.060 ... Validation loss: 0.153
+** iteration: 5000, lr: 0.90, hidden: 10 ==>train_loss: 0.060, validation loss: 0.154
+Progress: 100.0% ... Training loss: 0.058 ... Validation loss: 0.148
+** iteration: 5000, lr: 0.90, hidden: 11 ==>train_loss: 0.058, validation loss: 0.148
+Progress: 100.0% ... Training loss: 0.059 ... Validation loss: 0.159
+** iteration: 5000, lr: 0.90, hidden: 12 ==>train_loss: 0.060, validation loss: 0.159
+Progress: 100.0% ... Training loss: 0.059 ... Validation loss: 0.148
+** iteration: 6000, lr: 0.50, hidden: 5 ==>train_loss: 0.059, validation loss: 0.148
+Progress: 100.0% ... Training loss: 0.062 ... Validation loss: 0.153
+** iteration: 6000, lr: 0.50, hidden: 6 ==>train_loss: 0.063, validation loss: 0.154
+Progress: 100.0% ... Training loss: 0.059 ... Validation loss: 0.149
+** iteration: 6000, lr: 0.50, hidden: 7 ==>train_loss: 0.059, validation loss: 0.149
+Progress: 100.0% ... Training loss: 0.063 ... Validation loss: 0.144
+** iteration: 6000, lr: 0.50, hidden: 8 ==>train_loss: 0.063, validation loss: 0.144
+Progress: 100.0% ... Training loss: 0.067 ... Validation loss: 0.172
+** iteration: 6000, lr: 0.50, hidden: 9 ==>train_loss: 0.067, validation loss: 0.173
+Progress: 100.0% ... Training loss: 0.070 ... Validation loss: 0.200
+** iteration: 6000, lr: 0.50, hidden: 10 ==>train_loss: 0.071, validation loss: 0.200
+Progress: 100.0% ... Training loss: 0.063 ... Validation loss: 0.130
+** iteration: 6000, lr: 0.50, hidden: 11 ==>train_loss: 0.063, validation loss: 0.130
+Progress: 100.0% ... Training loss: 0.065 ... Validation loss: 0.193
+** iteration: 6000, lr: 0.50, hidden: 12 ==>train_loss: 0.066, validation loss: 0.193
+Progress: 100.0% ... Training loss: 0.061 ... Validation loss: 0.158
+** iteration: 6000, lr: 0.60, hidden: 5 ==>train_loss: 0.062, validation loss: 0.159
+Progress: 100.0% ... Training loss: 0.062 ... Validation loss: 0.154
+** iteration: 6000, lr: 0.60, hidden: 6 ==>train_loss: 0.062, validation loss: 0.155
+Progress: 100.0% ... Training loss: 0.056 ... Validation loss: 0.151
+** iteration: 6000, lr: 0.60, hidden: 7 ==>train_loss: 0.056, validation loss: 0.152
+Progress: 100.0% ... Training loss: 0.063 ... Validation loss: 0.180
+** iteration: 6000, lr: 0.60, hidden: 8 ==>train_loss: 0.063, validation loss: 0.181
+Progress: 100.0% ... Training loss: 0.063 ... Validation loss: 0.197
+** iteration: 6000, lr: 0.60, hidden: 9 ==>train_loss: 0.064, validation loss: 0.197
+Progress: 100.0% ... Training loss: 0.062 ... Validation loss: 0.153
+** iteration: 6000, lr: 0.60, hidden: 10 ==>train_loss: 0.063, validation loss: 0.153
+Progress: 100.0% ... Training loss: 0.058 ... Validation loss: 0.168
+** iteration: 6000, lr: 0.60, hidden: 11 ==>train_loss: 0.059, validation loss: 0.169
+Progress: 100.0% ... Training loss: 0.058 ... Validation loss: 0.168
+** iteration: 6000, lr: 0.60, hidden: 12 ==>train_loss: 0.058, validation loss: 0.168
+Progress: 100.0% ... Training loss: 0.066 ... Validation loss: 0.168
+** iteration: 6000, lr: 0.70, hidden: 5 ==>train_loss: 0.066, validation loss: 0.169
+Progress: 100.0% ... Training loss: 0.061 ... Validation loss: 0.154
+** iteration: 6000, lr: 0.70, hidden: 6 ==>train_loss: 0.061, validation loss: 0.155
+Progress: 100.0% ... Training loss: 0.057 ... Validation loss: 0.147
+** iteration: 6000, lr: 0.70, hidden: 7 ==>train_loss: 0.058, validation loss: 0.147
+Progress: 100.0% ... Training loss: 0.064 ... Validation loss: 0.171
+** iteration: 6000, lr: 0.70, hidden: 8 ==>train_loss: 0.064, validation loss: 0.172
+Progress: 100.0% ... Training loss: 0.058 ... Validation loss: 0.153
+** iteration: 6000, lr: 0.70, hidden: 9 ==>train_loss: 0.058, validation loss: 0.154
+Progress: 100.0% ... Training loss: 0.058 ... Validation loss: 0.170
+** iteration: 6000, lr: 0.70, hidden: 10 ==>train_loss: 0.059, validation loss: 0.171
+Progress: 100.0% ... Training loss: 0.056 ... Validation loss: 0.163
+** iteration: 6000, lr: 0.70, hidden: 11 ==>train_loss: 0.056, validation loss: 0.164
+Progress: 100.0% ... Training loss: 0.055 ... Validation loss: 0.157
+** iteration: 6000, lr: 0.70, hidden: 12 ==>train_loss: 0.056, validation loss: 0.157
+Progress: 100.0% ... Training loss: 0.069 ... Validation loss: 0.172
+** iteration: 6000, lr: 0.80, hidden: 5 ==>train_loss: 0.070, validation loss: 0.172
+Progress: 100.0% ... Training loss: 0.061 ... Validation loss: 0.154
+** iteration: 6000, lr: 0.80, hidden: 6 ==>train_loss: 0.061, validation loss: 0.155
+Progress: 100.0% ... Training loss: 0.057 ... Validation loss: 0.138
+** iteration: 6000, lr: 0.80, hidden: 7 ==>train_loss: 0.057, validation loss: 0.138
+Progress: 100.0% ... Training loss: 0.063 ... Validation loss: 0.167
+** iteration: 6000, lr: 0.80, hidden: 8 ==>train_loss: 0.064, validation loss: 0.168
+Progress: 100.0% ... Training loss: 0.056 ... Validation loss: 0.163
+** iteration: 6000, lr: 0.80, hidden: 9 ==>train_loss: 0.057, validation loss: 0.164
+Progress: 100.0% ... Training loss: 0.055 ... Validation loss: 0.135
+** iteration: 6000, lr: 0.80, hidden: 10 ==>train_loss: 0.055, validation loss: 0.136
+Progress: 100.0% ... Training loss: 0.054 ... Validation loss: 0.156
+** iteration: 6000, lr: 0.80, hidden: 11 ==>train_loss: 0.054, validation loss: 0.157
+Progress: 100.0% ... Training loss: 0.054 ... Validation loss: 0.159
+** iteration: 6000, lr: 0.80, hidden: 12 ==>train_loss: 0.055, validation loss: 0.159
+Progress: 100.0% ... Training loss: 0.070 ... Validation loss: 0.174
+** iteration: 6000, lr: 0.90, hidden: 5 ==>train_loss: 0.071, validation loss: 0.175
+Progress: 100.0% ... Training loss: 0.060 ... Validation loss: 0.150
+** iteration: 6000, lr: 0.90, hidden: 6 ==>train_loss: 0.060, validation loss: 0.150
+Progress: 100.0% ... Training loss: 0.057 ... Validation loss: 0.136
+** iteration: 6000, lr: 0.90, hidden: 7 ==>train_loss: 0.058, validation loss: 0.136
+Progress: 100.0% ... Training loss: 0.060 ... Validation loss: 0.164
+** iteration: 6000, lr: 0.90, hidden: 8 ==>train_loss: 0.060, validation loss: 0.165
+Progress: 100.0% ... Training loss: 0.056 ... Validation loss: 0.161
+** iteration: 6000, lr: 0.90, hidden: 9 ==>train_loss: 0.056, validation loss: 0.161
+Progress: 100.0% ... Training loss: 0.057 ... Validation loss: 0.143
+** iteration: 6000, lr: 0.90, hidden: 10 ==>train_loss: 0.057, validation loss: 0.143
+Progress: 100.0% ... Training loss: 0.056 ... Validation loss: 0.141
+** iteration: 6000, lr: 0.90, hidden: 11 ==>train_loss: 0.056, validation loss: 0.141
+Progress: 100.0% ... Training loss: 0.056 ... Validation loss: 0.149
+** iteration: 6000, lr: 0.90, hidden: 12 ==>train_loss: 0.057, validation loss: 0.150
+Progress: 100.0% ... Training loss: 0.058 ... Validation loss: 0.147
+** iteration: 7000, lr: 0.50, hidden: 5 ==>train_loss: 0.058, validation loss: 0.148
+Progress: 100.0% ... Training loss: 0.059 ... Validation loss: 0.145
+** iteration: 7000, lr: 0.50, hidden: 6 ==>train_loss: 0.059, validation loss: 0.145
+Progress: 100.0% ... Training loss: 0.061 ... Validation loss: 0.167
+** iteration: 7000, lr: 0.50, hidden: 7 ==>train_loss: 0.061, validation loss: 0.168
+Progress: 100.0% ... Training loss: 0.071 ... Validation loss: 0.145
+** iteration: 7000, lr: 0.50, hidden: 8 ==>train_loss: 0.071, validation loss: 0.146
+Progress: 100.0% ... Training loss: 0.062 ... Validation loss: 0.167
+** iteration: 7000, lr: 0.50, hidden: 9 ==>train_loss: 0.062, validation loss: 0.168
+Progress: 100.0% ... Training loss: 0.064 ... Validation loss: 0.162
+** iteration: 7000, lr: 0.50, hidden: 10 ==>train_loss: 0.064, validation loss: 0.163
+Progress: 100.0% ... Training loss: 0.059 ... Validation loss: 0.131
+** iteration: 7000, lr: 0.50, hidden: 11 ==>train_loss: 0.059, validation loss: 0.131
+Progress: 100.0% ... Training loss: 0.059 ... Validation loss: 0.159
+** iteration: 7000, lr: 0.50, hidden: 12 ==>train_loss: 0.060, validation loss: 0.160
+Progress: 100.0% ... Training loss: 0.059 ... Validation loss: 0.145
+** iteration: 7000, lr: 0.60, hidden: 5 ==>train_loss: 0.059, validation loss: 0.146
+Progress: 100.0% ... Training loss: 0.058 ... Validation loss: 0.147
+** iteration: 7000, lr: 0.60, hidden: 6 ==>train_loss: 0.059, validation loss: 0.147
+Progress: 100.0% ... Training loss: 0.058 ... Validation loss: 0.168
+** iteration: 7000, lr: 0.60, hidden: 7 ==>train_loss: 0.058, validation loss: 0.168
+Progress: 100.0% ... Training loss: 0.077 ... Validation loss: 0.148
+** iteration: 7000, lr: 0.60, hidden: 8 ==>train_loss: 0.077, validation loss: 0.149
+Progress: 100.0% ... Training loss: 0.060 ... Validation loss: 0.202
+** iteration: 7000, lr: 0.60, hidden: 9 ==>train_loss: 0.061, validation loss: 0.203
+Progress: 100.0% ... Training loss: 0.057 ... Validation loss: 0.141
+** iteration: 7000, lr: 0.60, hidden: 10 ==>train_loss: 0.057, validation loss: 0.141
+Progress: 100.0% ... Training loss: 0.056 ... Validation loss: 0.160
+** iteration: 7000, lr: 0.60, hidden: 11 ==>train_loss: 0.057, validation loss: 0.160
+Progress: 100.0% ... Training loss: 0.053 ... Validation loss: 0.145
+** iteration: 7000, lr: 0.60, hidden: 12 ==>train_loss: 0.054, validation loss: 0.146
+Progress: 100.0% ... Training loss: 0.060 ... Validation loss: 0.138
+** iteration: 7000, lr: 0.70, hidden: 5 ==>train_loss: 0.060, validation loss: 0.139
+Progress: 100.0% ... Training loss: 0.058 ... Validation loss: 0.147
+** iteration: 7000, lr: 0.70, hidden: 6 ==>train_loss: 0.059, validation loss: 0.148
+Progress: 100.0% ... Training loss: 0.058 ... Validation loss: 0.167
+** iteration: 7000, lr: 0.70, hidden: 7 ==>train_loss: 0.058, validation loss: 0.167
+Progress: 100.0% ... Training loss: 0.073 ... Validation loss: 0.160
+** iteration: 7000, lr: 0.70, hidden: 8 ==>train_loss: 0.074, validation loss: 0.160
+Progress: 100.0% ... Training loss: 0.057 ... Validation loss: 0.153
+** iteration: 7000, lr: 0.70, hidden: 9 ==>train_loss: 0.057, validation loss: 0.154
+Progress: 100.0% ... Training loss: 0.056 ... Validation loss: 0.158
+** iteration: 7000, lr: 0.70, hidden: 10 ==>train_loss: 0.057, validation loss: 0.158
+Progress: 100.0% ... Training loss: 0.057 ... Validation loss: 0.149
+** iteration: 7000, lr: 0.70, hidden: 11 ==>train_loss: 0.058, validation loss: 0.150
+Progress: 100.0% ... Training loss: 0.052 ... Validation loss: 0.139
+** iteration: 7000, lr: 0.70, hidden: 12 ==>train_loss: 0.053, validation loss: 0.140
+Progress: 100.0% ... Training loss: 0.060 ... Validation loss: 0.133
+** iteration: 7000, lr: 0.80, hidden: 5 ==>train_loss: 0.061, validation loss: 0.133
+Progress: 100.0% ... Training loss: 0.058 ... Validation loss: 0.148
+** iteration: 7000, lr: 0.80, hidden: 6 ==>train_loss: 0.059, validation loss: 0.149
+Progress: 100.0% ... Training loss: 0.059 ... Validation loss: 0.171
+** iteration: 7000, lr: 0.80, hidden: 7 ==>train_loss: 0.059, validation loss: 0.171
+Progress: 100.0% ... Training loss: 0.062 ... Validation loss: 0.153
+** iteration: 7000, lr: 0.80, hidden: 8 ==>train_loss: 0.062, validation loss: 0.153
+Progress: 100.0% ... Training loss: 0.058 ... Validation loss: 0.151
+** iteration: 7000, lr: 0.80, hidden: 9 ==>train_loss: 0.058, validation loss: 0.151
+Progress: 100.0% ... Training loss: 0.061 ... Validation loss: 0.146
+** iteration: 7000, lr: 0.80, hidden: 10 ==>train_loss: 0.062, validation loss: 0.146
+Progress: 100.0% ... Training loss: 0.055 ... Validation loss: 0.147
+** iteration: 7000, lr: 0.80, hidden: 11 ==>train_loss: 0.056, validation loss: 0.147
+Progress: 100.0% ... Training loss: 0.051 ... Validation loss: 0.143
+** iteration: 7000, lr: 0.80, hidden: 12 ==>train_loss: 0.051, validation loss: 0.143
+Progress: 100.0% ... Training loss: 0.059 ... Validation loss: 0.138
+** iteration: 7000, lr: 0.90, hidden: 5 ==>train_loss: 0.060, validation loss: 0.139
+Progress: 100.0% ... Training loss: 0.057 ... Validation loss: 0.147
+** iteration: 7000, lr: 0.90, hidden: 6 ==>train_loss: 0.057, validation loss: 0.148
+Progress: 100.0% ... Training loss: 0.060 ... Validation loss: 0.170
+** iteration: 7000, lr: 0.90, hidden: 7 ==>train_loss: 0.061, validation loss: 0.171
+Progress: 100.0% ... Training loss: 0.060 ... Validation loss: 0.157
+** iteration: 7000, lr: 0.90, hidden: 8 ==>train_loss: 0.060, validation loss: 0.158
+Progress: 100.0% ... Training loss: 0.058 ... Validation loss: 0.146
+** iteration: 7000, lr: 0.90, hidden: 9 ==>train_loss: 0.058, validation loss: 0.147
+Progress: 100.0% ... Training loss: 0.063 ... Validation loss: 0.155
+** iteration: 7000, lr: 0.90, hidden: 10 ==>train_loss: 0.063, validation loss: 0.155
+Progress: 100.0% ... Training loss: 0.058 ... Validation loss: 0.139
+** iteration: 7000, lr: 0.90, hidden: 11 ==>train_loss: 0.058, validation loss: 0.139
+Progress: 100.0% ... Training loss: 0.054 ... Validation loss: 0.137
+** iteration: 7000, lr: 0.90, hidden: 12 ==>train_loss: 0.054, validation loss: 0.137
